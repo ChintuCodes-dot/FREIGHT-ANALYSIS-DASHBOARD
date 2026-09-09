@@ -16,7 +16,7 @@ Example:
 
 ![Landing Page](https://github.com/ChintuCodes-dot/FREIGHT-ANALYSIS-DASHBOARD/blob/main/Freight%20Analysis_landing%20page.png)
 ![FY Month Freight Analysis phase1](https://github.com/ChintuCodes-dot/FREIGHT-ANALYSIS-DASHBOARD/blob/main/Phase%201-%20FY%20Monthly%20Freight%20Analysis%20pg1.png)
-![FY Month Freight Analysis phase1](https://.png)
+![FY Month Freight Analysis phase1](https://github.com/ChintuCodes-dot/FREIGHT-ANALYSIS-DASHBOARD/blob/main/Phase%201-%20FY%20Monthly%20Freight%20Analysis%20pg%202.png)
 ![Weekly Freight Analysis phase2](https://.png)
 ![Weekly Freight Analysis phase2](https://.png)
 
