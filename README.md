@@ -15,7 +15,7 @@ The Financial Year starts from **April** and the dashboard follows the required 
 Example:
 
 ![Landing Page](https://.png)
-![FY Month Freight Analysis phase1](https://.png)
+![FY Month Freight Analysis phase1](https://github.com/ChintuCodes-dot/FREIGHT-ANALYSIS-DASHBOARD/blob/main/Phase%201-%20FY%20Monthly%20Freight%20Analysis%20pg1.png)
 ![FY Month Freight Analysis phase1](https://.png)
 ![Weekly Freight Analysis phase2](https://.png)
 ![Weekly Freight Analysis phase2](https://.png)
