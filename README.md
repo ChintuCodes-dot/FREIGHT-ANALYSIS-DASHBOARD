@@ -18,7 +18,7 @@ Example:
 ![FY Month Freight Analysis phase1](https://github.com/ChintuCodes-dot/FREIGHT-ANALYSIS-DASHBOARD/blob/main/Phase%201-%20FY%20Monthly%20Freight%20Analysis%20pg1.png)
 ![FY Month Freight Analysis phase1](https://github.com/ChintuCodes-dot/FREIGHT-ANALYSIS-DASHBOARD/blob/main/Phase%201-%20FY%20Monthly%20Freight%20Analysis%20pg%202.png)
 ![Weekly Freight Analysis phase2](https://github.com/ChintuCodes-dot/FREIGHT-ANALYSIS-DASHBOARD/blob/main/Phase%202%20-%20Weekly%20Freight%20Analysis%20pg3.png)
-![Weekly Freight Analysis phase2]()
+![Weekly Freight Analysis phase2](https://github.com/ChintuCodes-dot/FREIGHT-ANALYSIS-DASHBOARD/blob/main/Phase%202%20-Weekly%20Freight%20Analysis%20pg4.png)
 
 
 
