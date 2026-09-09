@@ -12,6 +12,15 @@ The dashboard is designed according to the provided **Freight Analysis framework
 The dashboard provides Actual and Budget analysis through interactive slicers, matrix reports, and graphical visualizations.
 
 The Financial Year starts from **April** and the dashboard follows the required FY Month structure such as **Apr 22, Apr 23, Apr 24**, etc.
+Example:
+
+![Landing Page](https://.png)
+![FY Month Freight Analysis phase1](https://.png)
+![FY Month Freight Analysis phase1](https://.png)
+![Weekly Freight Analysis phase2](https://.png)
+![Weekly Freight Analysis phase2](https://.png)
+
+
 
 
 # 🎯 Project Objectives
